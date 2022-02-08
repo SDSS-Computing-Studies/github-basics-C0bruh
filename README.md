@@ -1,3 +1,5 @@
+#THIS IS MY FIRST GITHUB ASSIGNMENT
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
